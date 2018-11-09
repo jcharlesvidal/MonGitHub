@@ -1,7 +1,7 @@
 package main;
 
 public class Main {
-	// fonction main
+	// fonction main dans Branch
 	public static void main(String[] args) {
 		// no comm
 		Stuff stuff = new Stuff("Bisou","John");
